@@ -10,8 +10,8 @@ Summary: Keynote writing agent system using CrewAI and watsonx.ai.
 <br>
 
 <h3>Research/writing Task output: </h3>
-<img width="500" height="452" alt="Screenshot 2026-01-08 at 5 24 30 PM" src="https://github.com/user-attachments/assets/bf9e7af3-9421-493c-90f0-775dd73b6e21" />
-<img width="500" height="487" alt="Screenshot 2026-01-08 at 5 24 38 PM" src="https://github.com/user-attachments/assets/300a9415-1767-418b-846c-06d97d1354c3" />
+<img width="500" height="452" alt="Research output" src="https://github.com/user-attachments/assets/bf9e7af3-9421-493c-90f0-775dd73b6e21" />
+<img width="500" height="487" alt="Keynote speech output" src="https://github.com/user-attachments/assets/300a9415-1767-418b-846c-06d97d1354c3" />
 
 <br>
 <h3>Console output</h3>
