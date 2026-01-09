@@ -1,7 +1,7 @@
 # Multi-Agent-Research-System-Watsonx
 
 
-Summary: Keynote writing agent system using CrewAI and watsonx.ai.
+Overview: Keynote writing agent system using CrewAI and watsonx.ai.
 
 
 
