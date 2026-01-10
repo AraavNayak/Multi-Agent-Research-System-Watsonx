@@ -1,7 +1,7 @@
 # Multi-Agent-Research-System-Watsonx
 
 
-Overview: Keynote writing agent system using CrewAI and watsonx.ai.
+Overview: Quantum computing research Keynote writing agent system using CrewAI and IBM's WatsonX.
 
 
 
