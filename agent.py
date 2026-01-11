@@ -3,8 +3,8 @@ from crewai_tools import SerperDevTool # giving agents access to tools
 from langchain_ibm import WatsonxLLM # interface for WatsonX
 import os #api keys for environment
 
-os.environ['WATSONX_APIKEY'] = "OgwAmi154GhpJqYsu7KIANAzD1v-1abYeAra8KOuXtNx"
-os.environ['SERPER_API_KEY'] = "bcdfd0e7264879b21bc9615724ec4cd9a3a54ba6"
+os.environ['WATSONX_APIKEY'] = ""
+os.environ['SERPER_API_KEY'] = ""
 
 # Parameters
 parameters = {"decoding_method": "greedy", "max_new_tokens": 500}
